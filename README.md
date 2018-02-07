@@ -4,7 +4,7 @@ This repository contains many useful commands and files to use with Microsoft Wi
 
 ## Tips
 
-### Utilize "&" as alias to run scripts!
+### Use "&" as alias to run scripts!
 
 
 ```shell
